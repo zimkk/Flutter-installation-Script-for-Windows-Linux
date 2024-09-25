@@ -65,4 +65,4 @@ This repository contains scripts to download and install Flutter on Linux and Wi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is Open to the Public and all the Copy Rights are reserved.
